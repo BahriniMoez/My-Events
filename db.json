@@ -7,7 +7,7 @@
       "description": "Trouvez votre nouvel ami félin lors de cet événement",
       "location": "Bizerte",
       "date": "2 May 2005",
-      "time": "12:00",
+      "time": "8:00",
       "petsAllowed": true,
       "organizer": "Foulen Ben Foulen"
     },
@@ -18,7 +18,7 @@
       "description": "Rejoignez-nous alors que nous nous occupons des plantes comestibles de la communauté.",
       "location": "El Nasr",
       "date": "14 Mars 2022",
-      "time": "10:00",
+      "time": "9:00",
       "petsAllowed": true,
       "organizer": "Dora Lamin"
     },
@@ -29,7 +29,7 @@
       "description": "Aidez à ramasser les ordures le long du rivage.",
       "location": "Plage le Corniche",
       "date": "5 Juillet 2022",
-      "time": "11:00",
+      "time": "10:00",
       "petsAllowed": false,
       "organizer": "Cheick Hafedh"
     }
